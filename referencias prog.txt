@@ -1,0 +1,5 @@
+o html é uma linguagem de marcação de hipertexto. "Hipertexto" refere-se aos links que conectam páginas da Web entre si, seja dentro de um único site ou entre sites. ele configura os elementos ou ajustam seu comportamento de varias formas
+ela se relaciona com o conteudo do curso pois define o signnificado e a estrutura da web 
+https://developer.mozilla.org/pt-BR/docs/Web/HTML/Reference
+
+o css  é um padrão que define como os dados são apresentados no navegador e é usado para estilizar elementos escritos em uma linguagem de marcação como HTMl
